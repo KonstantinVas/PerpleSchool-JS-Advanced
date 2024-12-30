@@ -1,0 +1,16 @@
+{
+  "name": "15-build",
+  "version": "1.0.0",
+  "description": "Обучение",
+  "main": "index.js",
+  "scripts": {
+    "live-s": "live-server",
+    "build": "rollup --config",
+    "test": "test"
+  },
+  "author": "Konstantin",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.29.1"
+  }
+}
